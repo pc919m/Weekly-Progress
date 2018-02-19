@@ -2,7 +2,7 @@
 ## Week (2/19 - 2/23) ##
 
 TODO
-- [x] Data Types and Operators
+- [ ] Data Types and Operators
 
 - [ ] Control Flow
 
